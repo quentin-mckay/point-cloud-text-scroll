@@ -2,7 +2,7 @@
 
 ![site screenshot](./images/site_screenshot.jpg)
 
-A point cloud text scroll effect created for my portfolio site. Created with [cables.gl](https://cables.gl).
+A point cloud text scroll effect created for my portfolio site with [cables.gl](https://cables.gl).
 
 Text texture is randomly sampled to create an array of points.  
 
