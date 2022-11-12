@@ -1,4 +1,4 @@
-# Point Cloud Text Scroll
+# Point Cloud Text Scroll Effect
 
 ![site screenshot](./images/site_screenshot.jpg)
 
